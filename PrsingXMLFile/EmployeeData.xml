@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+  <Employee name="Brian Fergunson">
+    <Age>21</Age>
+    <IsMale>True</IsMale>
+  </Employee>
+
+  <Employee name="Brian Marly">
+    <Age>40</Age>
+    <IsMale>True</IsMale>
+  </Employee>
+
+  <Employee name="Bob Sagot">
+    <Age>20</Age>
+    <IsMale>False</IsMale>
+  </Employee>
+</root>
