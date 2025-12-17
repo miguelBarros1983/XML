@@ -10,7 +10,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/miguelBarros1983/XML.git'
+                git branch: 'master', url: 'https://github.com/miguelBarros1983/XML.git'
             }
         }
 
